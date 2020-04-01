@@ -20,7 +20,5 @@ public class AlmostIncreasingSequence {
 
 
     public static void main(String[] args) {
-        int[] s = {1,3,2};
-        System.out.println(almostIncreasingSequence(s));
     }
 }
