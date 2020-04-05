@@ -78,10 +78,5 @@ public class CpuEmulator {
 
         };
         System.out.println(cpuEmulator(s));
-
-        /*String str = "MOV 5,R00";
-        String[] ints = str.split(" ");
-        System.out.println(ints[1]);*/
     }
-
 }
